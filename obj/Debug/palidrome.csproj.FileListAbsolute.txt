@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\palidrome\bin\Debug\palidrome.exe.config
+C:\Users\User\source\repos\palidrome\bin\Debug\palidrome.exe
+C:\Users\User\source\repos\palidrome\bin\Debug\palidrome.pdb
+C:\Users\User\source\repos\palidrome\obj\Debug\palidrome.csprojAssemblyReference.cache
+C:\Users\User\source\repos\palidrome\obj\Debug\palidrome.Form1.resources
+C:\Users\User\source\repos\palidrome\obj\Debug\palidrome.Properties.Resources.resources
+C:\Users\User\source\repos\palidrome\obj\Debug\palidrome.csproj.GenerateResource.cache
+C:\Users\User\source\repos\palidrome\obj\Debug\palidrome.exe
+C:\Users\User\source\repos\palidrome\obj\Debug\palidrome.pdb
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\bin\Debug\palidrome.exe.config
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\bin\Debug\palidrome.exe
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\bin\Debug\palidrome.pdb
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\obj\Debug\palidrome.csprojAssemblyReference.cache
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\obj\Debug\palidrome.Form1.resources
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\obj\Debug\palidrome.Properties.Resources.resources
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\obj\Debug\palidrome.csproj.GenerateResource.cache
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\obj\Debug\palidrome.exe
+C:\Users\User\Documents\Toa Electronics\Software\palidrome\obj\Debug\palidrome.pdb
